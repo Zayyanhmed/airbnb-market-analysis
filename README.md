@@ -39,10 +39,6 @@ This project explores the following questions:
 
 The project uses Airbnb listing and calendar data.
 
-**Dataset source:** [ADD_YOUR_DATASET_SOURCE_HERE]
-
-The data was used to explore listing characteristics, calendar prices and geographic pricing patterns.
-
 ## Dashboard Preview
 
 <img width="1440" height="900" alt="Screenshot 2026-10-08 at 11 17 19 PM" src="https://github.com/user-attachments/assets/cf6b1dcc-4f3c-45a2-a822-a6e920232119" />
